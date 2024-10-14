@@ -18,14 +18,11 @@ body{
     height: 70px;
     border: 1px dotted rgb(149, 149, 80);
 }
-.row11,.row12,.row13,.row14,.row15,.row16{
-
-}
 
 .row2{
     grid-row: 2/3;
     grid-column: 1/13;
-    background-color: blueviolet;
+    background-color:rgb(red, green, blue);
     color: white;
     height: 60px;
     border: 1px dotted rgb(149, 149, 80);
